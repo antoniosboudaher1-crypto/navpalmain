@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of NavPal AI",
+  "description": "Luxury AI-powered navigation dashboard featuring Gemini 2.5 Flash with Google Maps Grounding.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
